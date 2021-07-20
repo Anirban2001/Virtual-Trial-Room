@@ -1,7 +1,6 @@
-# VTR
-## Virtual Trial Room
+# VTR (Virtual Trial Room) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ritwik1923/vtr&title=Views)![GitHub repo stars](https://img.shields.io/github/stars/ritwik1923/vtr?style=social) 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ritwik1923/vtr.git)
+<!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/ritwik1923/vtr.git) -->
 
 
 <!-- TABLE OF CONTENTS -->
