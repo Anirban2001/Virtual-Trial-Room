@@ -78,15 +78,8 @@ python server.py
 ### to run the app
 ```sh
 cd vtr-app
-bash flrun.sh # For app make kindly run emulator or on any ios or android device
+bash flrun.sh # kindly run emulator or on any ios or android device
 ```
-
-### To run the app
-```sh
-cd vtr-app
-bash flrun.sh # For app kindly make sure to run emulator or on any ios or android device
-```
-
 
 ## Contributing
 
