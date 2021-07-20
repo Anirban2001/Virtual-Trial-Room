@@ -34,7 +34,10 @@
 ## About The Project
 
 
-### In this Project will take image from the user and superimpose his/ her face on the cloth image as if he/she is wearing it. Help user to experience trial room, virtually.
+<!-- ### In this Project will take image from the user and superimpose his/ her face on the cloth image as if he/she is wearing it. Help user to experience trial room, virtually. -->
+### This project will utilise the user's picture to superimpose his or her face on a cloth's image as if he or she were wearing it. Allow the user to virtually experience a trial room.
+
+
 
 
 
